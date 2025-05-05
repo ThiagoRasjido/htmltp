@@ -1,0 +1,11 @@
+<!doctype html>
+<html><head><title>Seleccion</title><meta charset="utf-8"></head>
+<body>
+     <h1>Los mejores jugadores de la seleccion</h1>
+     <h2>Lionel Andrés Messi Cuccittini</h2>
+     <img src="foto2.jpg.jpg" alt="lionel Andres Messi">
+     <h2>Diego Armando Maradona </h2>
+     <img src="foto3.jpg.jpg" alt="Diego Armando Maradona">
+
+
+</html>
